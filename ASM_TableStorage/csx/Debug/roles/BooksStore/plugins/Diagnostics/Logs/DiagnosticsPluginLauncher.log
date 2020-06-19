@@ -1,0 +1,26 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Emulator config file set to C:\Users\Ha\Desktop\ASM_TableStorage\ASM_TableStorage\csx\Debug\roles\BooksStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] DiagnosticsStoreRootPath set to: C:\Users\Ha\AppData\Local\dftmp\Resources\e27ab04a-9578-4b16-b3f5-075e4fcf4235
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Loading config file: C:\Users\Ha\Desktop\ASM_TableStorage\ASM_TableStorage\csx\Debug\roles\BooksStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Config file to read: C:\Users\Ha\Desktop\ASM_TableStorage\ASM_TableStorage\csx\Debug\roles\BooksStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Emulator config file set to C:\Users\Ha\Desktop\ASM_TableStorage\ASM_TableStorage\csx\Debug\roles\BooksStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:20 AM] Found a MonAgentHost.exe. WadArguments: "C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\plugins\Diagnostics\Monitor\x64\MonAgentHost.exe" -LocalPath "C:\Users\Ha\AppData\Local\dftmp\Resources\25a6b0f4-b805-49d7-9ff9-d971a6f3f079\WAD0105"  -ConfigFile "C:\Users\Ha\AppData\Local\dftmp\Resources\25a6b0f4-b805-49d7-9ff9-d971a6f3f079\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-19e727f4de1f4b62b57946c2d4ed5a5a  -TotalShutDownEvent WADDM-TotalShutDown-19e727f4de1f4b62b57946c2d4ed5a5a -InitializedEvent WADM-StartUp-19e727f4de1f4b62b57946c2d4ed5a5a -parent 16112 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Loading config file: C:\Users\Ha\Desktop\ASM_TableStorage\ASM_TableStorage\csx\Debug\roles\BooksStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Config file to read: C:\Users\Ha\Desktop\ASM_TableStorage\ASM_TableStorage\csx\Debug\roles\BooksStore\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Found a running wad2 MA not sharing the same local directory
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:21 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\Ha\Desktop\ASM_BlobStorage\ASM_BlobStorage\csx\Debug\roles\ImagesStore\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:55 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:55 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:20:55 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:22:06 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [6/19/2020 5:22:06 AM] DiagnosticPlugin exited with code 0

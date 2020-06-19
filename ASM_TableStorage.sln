@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ASM_TableStorage", "ASM_TableStorage\ASM_TableStorage.ccproj", "{75A4FC6F-6D82-4CAD-B8AA-24EF2E69246D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksStore", "BooksStore\BooksStore.csproj", "{C8AE934D-D80B-4695-93B4-E25208E56608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A4FC6F-6D82-4CAD-B8AA-24EF2E69246D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A4FC6F-6D82-4CAD-B8AA-24EF2E69246D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A4FC6F-6D82-4CAD-B8AA-24EF2E69246D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A4FC6F-6D82-4CAD-B8AA-24EF2E69246D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AE934D-D80B-4695-93B4-E25208E56608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AE934D-D80B-4695-93B4-E25208E56608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AE934D-D80B-4695-93B4-E25208E56608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AE934D-D80B-4695-93B4-E25208E56608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F801DA4-C903-4F63-BE4A-FC7922F633E0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+﻿@model BooksStore.Models.BookEntity
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+    @using (Html.BeginForm())
+    {
+        <fieldset style="width:300px">
+            <legend>Create Book </legend>
+            <div>
+                @Html.LabelFor(model => model.BookID)
+                <div> @Html.EditorFor(model => model.BookID) </div>
+            </div>
+            <div>
+                @Html.LabelFor(model => model.BookTitle)
+                <div> @Html.EditorFor(model => model.BookTitle) </div>
+            </div>
+            <div>
+                @Html.LabelFor(model => model.BookPrice)
+                <div> @Html.EditorFor(model => model.BookPrice) </div>
+            </div>
+            <div> <input type="submit" value="Save" /> </div>
+            <div>
+                <h4> @ViewBag.Msg </h4>
+            </div>
+        </fieldset>
+    }
+
+    <div>
+        @Html.ActionLink("View Book List", "ViewBooks")
+    </div>
+</body>
+</html>
